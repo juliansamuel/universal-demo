@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/05440d36-918a-46db-849e-35e8f2a90975/resourceGroups/dev-uksca/providers/Microsoft.Web/sites/universal-demo",
+    "appService.deploySubpath": "dist\\universal-demo"
+}
