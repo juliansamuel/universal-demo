@@ -26,7 +26,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-Installation and steps to repro this bug: https://docs.microsoft.com/en-us/answers/questions/308191/angular-universal-webb-app-with-ssr-randomly-slow.html
+## Installation and steps to repro this bug: 
+https://docs.microsoft.com/en-us/answers/questions/308191/angular-universal-webb-app-with-ssr-randomly-slow.html
+
 1. Have Node 12/14 installed.
 2. Have angular cli installed: 'npm i @angular/cli'
 3. Get this code: 'git clone https://github.com/juliansamuel/universal-demo.git'
