@@ -20,5 +20,5 @@ Same problem is discussed here: https://docs.microsoft.com/en-us/answers/questio
 4. Open the code in VS Code and run `npm --install` from the terminal to install the dependencies.
 5. Run `ng start` to start the app in dev mode
 6. Run `npm run build:ssr` to build the app deployment artifacts into the Dist folder
-7. Deploy the build artifacts to an Azure Windows App Service.
+7. Deploy the build artifacts to an Azure Windows or Linux App Service as Code.
 8. Keep on hitting refresh until you randomly get a delay of between 15 & 16 seconds.
