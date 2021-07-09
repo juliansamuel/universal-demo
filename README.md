@@ -10,7 +10,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Installation and steps to repro the random loiading delay of approx 15 seconds when deployed to an Azure Windows or Linux App Service as Code 
+## Installation and steps to repro the random page loading delay of approx 15 seconds when deployed to an Azure Windows or Linux App Service as Code 
 
 Same problem is discussed here: https://docs.microsoft.com/en-us/answers/questions/308191/angular-universal-webb-app-with-ssr-randomly-slow.html
 
